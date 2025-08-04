@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Jogo da Memória</title>
+  <title>JOGO DA MEMÓRIA</title>
   <style>
     * {
       box-sizing: border-box;
@@ -85,7 +85,7 @@
   </style>
 </head>
 <body>
-  <h1>Jogo da Memória</h1>
+  <h1>JOGO DA MEMÓRIA</h1>
   <div id="game-board" class="game-board"></div>
   <div id="status" class="status"></div>
   <button onclick="reiniciarJogo()">Reiniciar</button>
